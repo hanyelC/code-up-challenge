@@ -6,4 +6,4 @@
 
 
 # relevant markers:
-## challenge started at 2024-12-31
+- challenge started at 2024-12-31

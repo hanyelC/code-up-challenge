@@ -12,5 +12,7 @@
 - nextjs `page` file (version 15 btw)
 - tailwind is strange
 
+**Time spent:** 1h40min
+
 **Link do trabalho:** 
 [project-hunt](https://github.com/hanyelC/project-hunt)

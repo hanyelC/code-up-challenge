@@ -16,3 +16,16 @@
 
 **Link do trabalho:** 
 [project-hunt](https://github.com/hanyelC/project-hunt)
+
+### Day 2: 01 de janeiro, 2025 
+
+**Progresso do dia:** 
+- still working on project hunt, on the home screen project card component
+
+**Aprendizados:**
+- how to use svg with reactjs
+
+**Time spent:** 1hmin
+
+**Link do trabalho:** 
+[project-hunt](https://github.com/hanyelC/project-hunt)

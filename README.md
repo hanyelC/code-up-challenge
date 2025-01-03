@@ -6,4 +6,4 @@
 
 
 # relevant markers:
-- challenge started at 2024-12-31
+- challenge started at [2024-12-31](https://github.com/hanyelC/code-up-challenge/blob/main/log.md#day-1-december-31-2024)

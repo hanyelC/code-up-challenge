@@ -42,3 +42,19 @@
 
 **Work link:** 
 [project-hunt](https://github.com/hanyelC/project-hunt)
+
+### Day 4: January 03, 2025 
+
+**Day progress:** 
+- started backend
+- created project and categories tables
+- created project controller
+- remove mocked data from frontend and show data from backend
+
+**Learnings:**
+- nextjs App components data fetching is pretty simple, you just need to use `fetch`
+
+**Time spent:** 1h
+
+**Work link:** 
+[project-hunt](https://github.com/hanyelC/project-hunt)

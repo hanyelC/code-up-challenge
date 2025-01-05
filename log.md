@@ -58,3 +58,18 @@
 
 **Work link:** 
 [project-hunt](https://github.com/hanyelC/project-hunt)
+
+### Day 5: January 05, 2025 
+
+**Day progress:** 
+- configured a new google project to use oauth
+- started authentication with google using [passportjs](https://www.passportjs.org/)
+- started upvote feature
+
+**Learnings:**
+- authentication with google oauth
+
+**Time spent:** 1h
+
+**Work link:** 
+[project-hunt](https://github.com/hanyelC/project-hunt)

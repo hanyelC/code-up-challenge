@@ -74,13 +74,26 @@
 **Work link:** 
 [project-hunt](https://github.com/hanyelC/project-hunt)
 
-### Day 5: January 05, 2025 
+### Day 6: January 05, 2025 
 
 **Day progress:** 
 - still working on authentication
 
 **Learnings:**
 - authentication with google oauth
+
+**Time spent:** 1h
+
+**Work link:** 
+[project-hunt](https://github.com/hanyelC/project-hunt)
+
+### Day 7: January 08, 2025 
+
+**Day progress:** 
+- started working on upvote/downvote feature
+
+**Learnings:**
+- nextjs client components
 
 **Time spent:** 1h
 
